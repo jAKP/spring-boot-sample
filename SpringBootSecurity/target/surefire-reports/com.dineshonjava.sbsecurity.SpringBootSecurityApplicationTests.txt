@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dineshonjava.sbsecurity.SpringBootSecurityApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 34.396 sec - in com.dineshonjava.sbsecurity.SpringBootSecurityApplicationTests
